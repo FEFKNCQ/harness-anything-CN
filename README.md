@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/3b581ee87089
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/harness-anything/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/harness-anything-CN/releases) 下载。
 
 
 # cli-anything-wps
